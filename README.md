@@ -1,16 +1,27 @@
-## Hi there 👋
+# I see you found my GitHub profile.
 
-<!--
-**Kazaretski/Kazaretski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The name's Kazaretski. Graphic designer, programmer, video gamer. 
 
-Here are some ideas to get you started:
+I have 6 years of experience with multimedia and designing, and an unspecified amount more with programming and IT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## List of Programs I use(d):
+- PhotoShop
+- Bridge
+- Illustrator
+- InDesign
+- After Effects
+- Premiere
+- VSCode + Visual Studio
+
+## List of Programming Languages:
+- HTML+CSS
+- JavaScript
+- TypeScript
+- C#
+- SQL
+- Python
+- Skript
+- EJS
+- E2 (Formerly)
+- C++ (Formerly)
+- Scratch (Formerly)
