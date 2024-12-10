@@ -12,6 +12,8 @@ I have 6 years of experience with multimedia and designing, and an unspecified a
 - After Effects
 - Premiere
 - VSCode + Visual Studio
+- SQL Workbench
+- WireShark
 
 ## List of Programming Languages:
 - HTML+CSS
