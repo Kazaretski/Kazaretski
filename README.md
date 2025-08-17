@@ -9,5 +9,5 @@ I have 6 years of experience with multimedia and designing, and an unspecified a
 | - | - | - | - | - | - | - | - | - |
 
 ### List of Programming Languages:
-| HTML+CSS | JavaScript | TypeScript | C# | SQL | Python | Skript | EJS | E2 (Formerly) | C++ (Formerly) | Scratch (Formerly) |
+| HTML+CSS | JavaScript | TypeScript | C# | Java | SQL | Python | Skript | EJS | E2 (Formerly) | C++ (Formerly) |
 | - | - | - | - | - | - | - | - | - | - | - |
